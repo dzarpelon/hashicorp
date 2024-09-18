@@ -12,9 +12,21 @@ I'll do my best to put everything in here as thoroughly as possible, but do not 
 
 Well, let's go through this!
 
-For security, as I don't know if I should share the files, the questionaire will be added to the .gitignore file. This way it's not on the internet.
+For security, as I don't know if I should share the files, the questionaire files will be added to the .gitignore file. This way it's not on the internet.
 
 Also for easiness of reading, I'll put each exercise on a separate file.
+
+As requested I'll keep the following sections on each answer:
+
+> include two sections to your response:
+>
+> 1.**“Customer Response”**: In this section, please write as if you are responding to thecustomer. Show us how you approach a written customer response.
+>
+> 2.“**Troubleshooting**”: In this section, please elaborate on what you did to troubleshootand research. Let us in on your thought process --  how you approached the problem,what resources you used for research, how you set up Vault to reproduce the issue (ifapplicable).
+
+To keep the line of taught in a logical order, the files will start with the "troubleshooting" section.
+
+Finally, to keep the answer to the customer "real" I'll call her Agatha. 
 
 For now, I think that's it.
 

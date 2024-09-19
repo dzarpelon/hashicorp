@@ -11,7 +11,7 @@ First step here is to understand exactly what the command used does. With that w
 From what I see at first glance, this is what's happening
 
 * Vault is managing access to AWS via secrets engine and is adding a role to the role "my-role"
-* Still at first glance, it's allow access to every action in ec2 and every resource on it.
+* Still at first glance, it allows access to every action in ec2 and every resource on it.
 
 To confirm the above, I've checked the following docs:
 
@@ -90,6 +90,6 @@ EOF
 
 ```
 
-So, I think we are now - finally - ready to answer the customer! 
+So, I think we are now - finally - ready to answer the customer!
 
-# Customer Response
+# [Customer Response](./InitialExercise_customer_response.md)

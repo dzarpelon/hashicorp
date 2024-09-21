@@ -21,3 +21,5 @@ Gemfile.lock
 # Remove any pdf file and the pdf folder
 pdf/
 *.pdf
+devcontainrer.json
+dependabot.yml
